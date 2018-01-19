@@ -1,0 +1,3 @@
+rootProject.name = 'KeyboardAwareAnimatedScrollView'
+
+include ':app'
